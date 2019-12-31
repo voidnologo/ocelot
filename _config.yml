@@ -8,7 +8,7 @@ description: |
 owner: CJK # or company name
 first_published: 2019 # if migrating another site, the year of your first publish
 email:
-baseurl: "/project_ocelot.site" # the subpath of your site, e.g. /blog
+baseurl: "/ocelot" # the subpath of your site, e.g. /blog
 url: "https://voidnologo.github.io/project_ocelot.site/" # the base hostname & protocol for your site
 
 # Build settings
